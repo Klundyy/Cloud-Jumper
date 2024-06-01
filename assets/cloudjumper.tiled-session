@@ -1,0 +1,49 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "",
+    "expandedProjectPaths": [
+    ],
+    "fileStates": {
+        "": {
+            "scaleInEditor": 2
+        },
+        "cloudlevel.tmj": {
+            "scale": 1,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 1304,
+                "y": 188
+            }
+        },
+        "cloudlevel.tmj#background": {
+            "scaleInDock": 1
+        },
+        "cloudlevel.tmj#basetiles": {
+            "scaleInDock": 1
+        }
+    },
+    "frame.defaultDuration": 150,
+    "last.exportedFilePath": "C:/Users/derpk/CMPM120/Cloud Jumper/assets",
+    "last.imagePath": "C:/Users/derpk/CMPM120/Cloud Jumper/assets",
+    "map.height": 25,
+    "map.lastUsedExportFilter": "JSON map files (*.tmj *.json)",
+    "map.lastUsedFormat": "json",
+    "map.tileHeight": 18,
+    "map.tileWidth": 18,
+    "map.width": 75,
+    "openFiles": [
+    ],
+    "project": "cloudjumper.tiled-project",
+    "property.type": "bool",
+    "recentFiles": [
+        "cloudlevel.tmj"
+    ],
+    "tileset.embedInMap": true,
+    "tileset.tileSize": {
+        "height": 18,
+        "width": 18
+    }
+}
